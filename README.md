@@ -20,9 +20,3 @@ The papers are organized into various categories, with each category representin
 - **Miscellaneous**
 
 Feel free to browse through each folder for PDFs, summaries, and additional resources.
-
-## 🚀 How to Use
-
-1. **Clone the Repository**  
-   ```bash
-   git clone https://github.com/yourusername/ml-papers-collection.git
